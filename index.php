@@ -8,10 +8,10 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
-    </head>
+    </head> 
     <body>
         <?php
-         echo "yes yes yes yes"; //e put your code here
+         echo "yes yes yes yes naa mi tanan diri"; //e put your code here
         ?>
     </body>
 </html>
