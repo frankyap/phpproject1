@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
          echo "yes yes yes yes naa mi tanan diri"; //e put your code here
+         echo "no no no"; //e put your code here
         ?>
     </body>
 </html>
